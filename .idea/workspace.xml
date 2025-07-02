@@ -34,6 +34,7 @@
   "keyToString": {
     "Application.Exercise2.executor": "Run",
     "Application.Exercise3.executor": "Run",
+    "Application.Exercise4.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
