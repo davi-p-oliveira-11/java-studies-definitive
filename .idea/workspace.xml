@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e3c2de3-cd07-4b0f-97df-dc0807cac24a" name="Changes" comment="" />
+    <list default="true" id="9e3c2de3-cd07-4b0f-97df-dc0807cac24a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oop/oop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +38,14 @@
     "Application.Exercise3.executor": "Run",
     "Application.Exercise4.executor": "Run",
     "Application.ForLoop.executor": "Run",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/davidwaldstein11/Projects/primary/05_courses/java-studies-definitive",
-    "onboarding.tips.debug.path": "/home/davidwaldstein11/Projects/primary/05_courses/java-studies-definitive/Conditionals/src/Main.java",
+    "onboarding.tips.debug.path": "/home/davidwaldstein11/Projects/primary/05_courses/java-studies-definitive/oop/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
