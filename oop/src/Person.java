@@ -12,7 +12,7 @@ public class Person {
        this.name = name;
        this.age = 1;
     }
-    
+
     public String getName() {
         return this.name;
     }
